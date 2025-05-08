@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="44_dEU3d2UOuNiwEOFP1Ng" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="fragrantica.com/search" CVScreenId="f681f82a-fa77-4c1e-9b8d-4a8097f357d9" CvElementArea="247, 583, 21, 20" CvType="CheckBox" DesignTimeRectangle="249, 585, 18, 17" DesignTimeScaleFactor="1.25" ElementType="CheckBox" FuzzyAccuracy="0.4" FuzzySelectorArgument="&lt;webctrl class='ais-RefinementList-checkbox' tag='INPUT' type='checkbox' aaname='' /&gt;" Guid="953fd8c6-673a-4d6e-acac-e8421f730f73" ScopeSelectorArgument="&lt;html app='firefox.exe' title='Perfumes Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="f681f82a-fa77-4c1e-9b8d-4a8097f357d9" CvTextArea="275, 582, 259, 18" CvTextArgument="male 16544" CvType="Text" DesignTimeRectangle="249, 575, 293, 47" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='LABEL' class='ais-RefinementList-label' aaname='' check:innerText='male&amp;#xA;16544' /&gt;" Guid="5f6920d8-5fe3-4d8b-b094-e4fb74db89a1" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="86325f54fff966da8876910f07d21cd7.png" xmlns="">0AQLKBSqjNkmVGmULQ-C66g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4hmm9z2kDU6a8AO7rWDJaA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="fragrantica.com/search" CVScreenId="8a339db5-05c7-4449-bc1e-4fd2bb5821ab" CvTextArea="275, 582, 259, 18" CvTextArgument="male 16544" CvType="Text" DesignTimeRectangle="249, 575, 293, 47" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='LABEL' class='ais-RefinementList-label' aaname='' check:innerText='male&amp;#xA;16544' /&gt;" Guid="bf464e9a-7131-4b91-b035-ac43b4ff7204" ScopeSelectorArgument="&lt;html app='firefox.exe' title='Perfumes Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8a339db5-05c7-4449-bc1e-4fd2bb5821ab" CvTextArea="275, 582, 45, 18" CvTextArgument="male" CvType="Text" DesignTimeRectangle="277, 582, 43, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='male' class='ais-RefinementList-labelText' parentid='offCanvasLeftOverlap1' tag='SPAN' type='' check:innerText='male' /&gt;" Guid="6e394d98-42f5-42b6-8f8d-f3dfe75fe7b6" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="64be115e4c6292d7ddb1b5c922238c15.png" xmlns="">01hwUFtMylUuLQQNdAmtI0Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

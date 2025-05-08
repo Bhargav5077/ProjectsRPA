@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Checkbox 'male 16544'",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Id": "Z0Mxh8ouYk6bQp1L3ixTOA",
+  "Reference": "dfbKGL-GJEeFiV6rEkxQMg/Z0Mxh8ouYk6bQp1L3ixTOA",
+  "ParentRef": "dfbKGL-GJEeFiV6rEkxQMg/Xh9y3AG23kmT9DDhYadfBA",
+  "Created": "2025-03-26T21:33:46.1524626Z",
+  "Updated": "2025-03-26T21:33:46.1524626Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

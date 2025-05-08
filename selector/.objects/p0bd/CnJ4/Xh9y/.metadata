@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Firefox Perfumes Search",
+  "Type": "Screen",
+  "Id": "Xh9y3AG23kmT9DDhYadfBA",
+  "Reference": "dfbKGL-GJEeFiV6rEkxQMg/Xh9y3AG23kmT9DDhYadfBA",
+  "ParentRef": "dfbKGL-GJEeFiV6rEkxQMg/CnJ4g8bbWkSJJy1lEoN48Q",
+  "Created": "2025-03-18T22:28:43.1512022Z",
+  "Updated": "2025-03-18T22:28:43.1512022Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

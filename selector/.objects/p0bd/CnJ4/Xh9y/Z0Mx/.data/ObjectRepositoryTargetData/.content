@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YD2YGmNNFki5w9Gcj_XkAQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="fragrantica.com/search" CVScreenId="f681f82a-fa77-4c1e-9b8d-4a8097f357d9" CvTextArea="275, 582, 45, 18" CvType="AnyWordGroup" DesignTimeRectangle="277, 582, 43, 22" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='ais-RefinementList-labelText' parentid='offCanvasLeftOverlap1' tag='SPAN' type='' /&gt;" Guid="87784e89-f507-40de-9471-1cfa6b0b317d" ScopeSelectorArgument="&lt;html app='firefox.exe' title='Perfumes Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="fa9fb9312b0b25b369879ea1d11e514f.png" xmlns="">0HbyJgogm1UinCgHTJLf08g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
